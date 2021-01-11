@@ -1,0 +1,29 @@
+_repo: Seneca-Fiction-Legends-and-Myths_64176
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Curtin, Jeremiah
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '1053'
+    url: http://www.gutenberg.org/2009/agents/1053
+    wikipedia: https://en.wikipedia.org/wiki/Jeremiah_Curtin
+  - agent_name: Hewitt, J. N. B. (John Napoleon Brinton)
+    alias: Hewitt, John Napoleon Brinton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '45401'
+    url: http://www.gutenberg.org/2009/agents/45401
+description: ''
+gutenberg_issued: '2020-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Seneca Fiction, Legends, and Myths
+url: http://www.gutenberg.org/ebooks/64176
